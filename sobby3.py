@@ -12,4 +12,5 @@ while 3:
           otp3=otp1[2:6]
           print("your otp is",otp3)
     else:
+        print("thanks for using our otp generator")
         break
